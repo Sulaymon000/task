@@ -1,1 +1,6 @@
-
+.even {
+  color: blue; /* juft raqamlar ko‘k */
+}
+.odd {
+  color: red; /* toq raqamlar qizil */
+}
